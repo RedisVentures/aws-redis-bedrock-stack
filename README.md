@@ -1,2 +1,2 @@
 # aws-redis-bedrock-stack
-Fake repo / POC by red_h_a_t (H1)
+malicious  repo / POC by red_h_a_t (H1)
